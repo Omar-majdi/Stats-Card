@@ -46,7 +46,7 @@
   }
 
   .container .picture {
-    background: url("images\image-header-mobile.jpg") no-repeat center/cover;
+    background: url("/images/image-header-mobile.jpg") no-repeat center/cover;
     height: 400px;
     border-radius: 10px 10px 0 0;
   }
@@ -107,7 +107,7 @@
     }
   
     .container .picture {
-      background: url("./images/image-header-desktop.jpg") no-repeat center/cover;
+      background: url("/images/image-header-desktop.jpg") no-repeat center/cover;
       min-width: 50%;
       border-radius: 0 10px 10px 0;
     }
